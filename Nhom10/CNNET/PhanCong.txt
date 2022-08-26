@@ -1,0 +1,4 @@
+Phân Công:
+Ngô Quang Hùng: form đăng nhập phân quyền,Nhân Viên, Loại,Backup & Restore, Báo Cáo
+Bùi Đức Huy: form Sản Phẩm, Nhập Hàng, Chi tiết nhập Hàng, Nhà Cung Cấp, Báo Cáo
+Nguyễn Cao Trí: form Khách Hàng, Hóa Đơn, xuất login , chi tiết hóa đơn, Báo Cáo
